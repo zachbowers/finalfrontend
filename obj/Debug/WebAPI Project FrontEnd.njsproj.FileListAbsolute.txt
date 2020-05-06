@@ -1,2 +1,0 @@
-C:\Users\joker\source\repos\WebAPI Project FrontEnd\WebAPI Project FrontEnd\obj\Debug\WebAPI Project FrontEnd.njsprojAssemblyReference.cache
-C:\Users\joker\source\repos\WebAPI Project FrontEnd\WebAPI Project FrontEnd\bin\Microsoft.NodejsTools.WebRole.dll
