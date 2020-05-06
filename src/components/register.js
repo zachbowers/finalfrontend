@@ -35,13 +35,13 @@ class Register extends Component {
             <Form onsubmit={this.register} horizontal>
                 <FormGroup controlId="username">
                     
-                    <Label for="username">Username</Label>
+                    <label for="username">Username</label>
                     
                         <FormControl onChange={this.updateDetails} value={this.state.details.username} type="username" placeholder="Username" />
                     
                 </FormGroup>
                 <FormGroup controlId="password">
-                    <Label for="password">Password</Label>
+                    <label For="password">Password</label>
                         <FormControl onChange={this.updateDetails} value={this.state.details.password} type="password" placeholder="Password" />
                     
                 </FormGroup>

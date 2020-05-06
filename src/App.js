@@ -13,7 +13,7 @@ function App() {
         <Provider store={store}>
           <HashRouter>
             <div className="NavBar">
-              <AppBar />
+
               <Route exact path="/" render={() => <chatApp />} />
               <Route exact path="/signin" render={() => <Auth />} />
             </div>
